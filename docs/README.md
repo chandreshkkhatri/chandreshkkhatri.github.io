@@ -1,6 +1,6 @@
 ## Chandresh Kumar ##       
 
-[Showcase](/docs/showcase.md) &nbsp;&nbsp;&nbsp; [Blogs](/docs/blog/index.md)
+[Showcase](/showcase) &nbsp;&nbsp;&nbsp; [Blogs](/blog/)
 
 ---
 
