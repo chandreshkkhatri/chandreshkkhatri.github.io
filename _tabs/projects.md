@@ -21,23 +21,16 @@ Learn deeper, faster with your AI study partner. Ask questions, annotate passage
 
 ---
 
-## SpikeyCoins
-
-**Cryptocurrency Market Data & Analysis**
-
-Track real-time cryptocurrency market data, analyze USDT trading pairs, and discover trending coins with comprehensive market insights.
-
-🟢 **Active**
-
-🔗 [spikeycoins.com](https://www.spikeycoins.com/)
-
----
-
 ## OpenMandi
 
-**Trading Platform**
+**Trading Operating System**
 
-A modern trading platform for seamless market operations and portfolio management.
+A unified platform for serious traders — combining execution, analysis, and education in one ecosystem.
+
+- **Terminal**: Professional multi-chart trading interface with multi-broker API integration
+- **Journal**: Trade logging with automated performance insights — win rate, profit factor, and strategy analysis
+- **Gym**: Practice technical analysis on obfuscated historical data without bias
+- **Crypto Dashboard**: Real-time market data, screeners, and trend discovery
 
 🟢 **Active**
 
