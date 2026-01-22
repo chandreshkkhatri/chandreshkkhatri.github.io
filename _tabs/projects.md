@@ -35,3 +35,20 @@ A unified platform for serious traders — combining execution, analysis, and ed
 🟢 **Active**
 
 🔗 [openmandi.com](https://www.openmandi.com/)
+
+---
+
+## Chess Rebundled
+
+**Voice-Powered Chess Notation Trainer**
+
+Master chess notation by speaking moves from the greatest games ever played. Instead of passively watching replays, actively participate by speaking each move aloud — training pattern recognition and notation fluency.
+
+- **Voice Input**: Speak moves naturally; Claude AI interprets with high accuracy
+- **Famous Games**: Practice with The Immortal Game, The Opera Game, Game of the Century, and more
+- **Active Learning**: Get quizzed on positions and receive instant feedback
+- **Progress Tracking**: Monitor accuracy and timing statistics
+
+🟢 **Active**
+
+🔗 [chess.rebundled.co](https://chess.rebundled.co/)
