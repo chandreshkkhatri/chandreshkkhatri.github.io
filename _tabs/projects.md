@@ -21,7 +21,7 @@ Learn deeper, faster with your AI study partner. Ask questions, annotate passage
 
 ---
 
-## OpenMandi
+## SpikeyCoins
 
 **Trading Operating System**
 
@@ -34,7 +34,7 @@ A unified platform for serious traders — combining execution, analysis, and ed
 
 🟢 **Active**
 
-🔗 [openmandi.com](https://www.openmandi.com/)
+🔗 [spikeycoins.com](https://www.spikeycoins.com/)
 
 ---
 

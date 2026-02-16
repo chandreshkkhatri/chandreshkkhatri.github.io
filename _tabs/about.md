@@ -11,8 +11,8 @@ I'm a software developer passionate about building products that solve real prob
 ### What I'm Building
 
 - **[Lucidity](https://www.lucidity.chat/)** — AI-powered study assistant
-- **[SpikeyCoins](https://www.spikeycoins.com/)** — Cryptocurrency market data & analysis
-- **[OpenMandi](https://www.openmandi.com/)** — Trading platform
+- **[SpikeyCoins](https://www.spikeycoins.com/)** — Trading operating system for serious traders
+- **[OpenMandi](https://www.openmandi.com/)** — Commodities trading platform based in stable coins
 
 ### Connect With Me
 
