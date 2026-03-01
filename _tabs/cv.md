@@ -14,13 +14,36 @@ Gurugram, India | +91-8114423917 | chandreshkkhatri@gmail.com
 
 ## WORK EXPERIENCE
 
-### Senior Software Engineer (Generative AI)
-**Freelance Work and personal projects** | *Bengaluru, India* | *June 2025 – Present*
+### Freelance Work and personal projects | *Bengaluru, India* | *July 2025 – Present*
+**Alpha Terminal — AI-Powered Quantitative Trading Platform** `|` *Python · Nautilus Trader · Gemini API · MCP-based Orchestration*
+* Engineered an agentic AI framework to automate the end-to-end quantitative trading lifecycle, spanning from automated strategy generation to system deployment.
+* Integrated the Gemini API with custom MCP-based orchestration to manage real-time backtesting and execution via Nautilus Trader.
 
-* Engineered an agentic AI framework automating the end-to-end quantitative trading lifecycle—from strategy generation to backtesting (via Nautilus Trader) and deployment—leveraging Gemini API and custom MCP-based orchestration
-* Developed SpikeyCoins, an AI-driven market analytics and trading platform with a Node.js backend and Next.js React frontend, streaming real-time market data from Binance WebSockets and CoinGecko APIs
-* Created Lucidity Chat, an AI-powered chat application supporting forkable threads, real-time streaming, and persistent context via MongoDB, built with Next.js, shadcn/ui, and Tailwind CSS
-* Developed chess rebundled, a chess notation learning app that allows practice notation on historical games as well as play live two player games with notations
+**Lucidity Chat — AI-Powered Conversational Platform** `|` *Next.js · TypeScript · MongoDB · Google Gemini*
+* Architected a full-stack AI chat application using Next.js 15 App Router and React 19, integrating Google Gemini 2.5 via Vercel AI SDK with real-time server-sent event streaming.
+* Built a Slack-style threaded conversation system and an interactive Canvas view (React Flow/Dagre), supporting nested replies, persistent visual mapping, and a custom text annotation system to spawn focused sub-threads.
+* Implemented token-based usage metering with per-model cost calculation, monthly quota enforcement, and Razorpay integration with HMAC webhook verification for automated Pro subscriptions.
+* Engineered secure backend services including NextAuth.js v5 authentication, MongoDB connection pooling, JWT sessions, and SWR for optimistic client-side data synchronization.
+
+**SpikeyCoins — Trading Platform** `|` *Full-Stack TypeScript · Next.js 16 · Node.js/Express · MongoDB · Binance & Upstox APIs · PWA*
+* Designed and built a Progressive Web App (PWA) multi-broker trading platform for crypto futures (Binance) and Indian equities (Upstox), featuring a responsive terminal with TradingView charts, live orderbook, and push notifications.
+* Engineered a robust Node.js backend integrating Binance Spot/Futures REST APIs behind a dynamic Bottleneck rate-limiter, preventing IP bans by syncing with real-time `x-mbx-used-weight-1m` headers under concurrent load.
+* Implemented a persistent WebSocket price service fanning out orderbook data via SSE, and a polling Binance Order Monitor that automatically triggers stop-loss/take-profit algo orders via the Binance Algo API.
+* Developed a journal sync engine that reconstructs full round-trip trades from raw fill history—computing weighted average prices and realized PnL—surfaced through an auto-synced Analyst’s Journal and a Trading Gym sandbox.
+
+**Open Mandi — Crypto Derivatives Exchange** `|` *Full Stack Engineer `|` Next.js 16 · TypeScript · PostgreSQL*
+* Built a complete Web3-adjacent commodities exchange from scratch, engineering a custom trading and matching engine supporting perpetual futures, 50x leverage, and automated liquidations.
+* Developed autonomous algorithmic market-making and hedging bots integrating directly with the Binance Futures API.
+* Handled end-to-end user flows including Firebase Auth sessions, wallet deposits/withdrawals, and complex real-time terminal UI components.
+
+**Reweave — AI-Powered Video Generation Toolkit** `|` *Python · FFmpeg · Google Gemini API · MoviePy · Fal.ai/Replicate APIs*
+* Designed and developed a Python-based intelligent multimodal pipeline using the Gemini API to automatically perform chunked native transcription and summarization of 2+ hour YouTube videos, bypassing unstable scraping libraries.
+* Engineered dynamic video assembly using MoviePy and complex FFmpeg filters, rendering 5 distinct video modes including Ken Burns slideshows, AI-lipsynced avatars (via Fal.ai/Replicate), and reactive audiograms.
+* Implemented custom subtitle synchronization logic using character-count heuristics to calculate precise millisecond weights, eliminating text-to-speech (TTS) timing drift in burned-in SRT captions.
+
+**Chess Rebundled — Chess Learning & Multiplayer Platform** `|` *Full-Stack Software Engineer*
+* Engineered a scalable, real-time multiplayer application for learning chess notation and playing live matches using Next.js, React, Node.js, Fastify, and Socket.io with Redis caching for low-latency state synchronization.
+* Integrated Stockfish.js (WebAssembly) for performant client-side board evaluations, while implementing robust data persistence through MongoDB for historical games and Firebase for secure user authentication.
 
 ### Software Development Engineer III
 **Radiolab Technology (ByajKhata)** | *Jaipur, India* | *June 2024 – June 2025*
