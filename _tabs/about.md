@@ -6,7 +6,7 @@ order: 5
 
 ## Hi, I'm Chandresh Kumar 👋
 
-I'm a software developer passionate about building products that solve real problems. I love working on AI, trading systems, and web applications.
+I'm a Senior Software Engineer and IIT Bombay alumnus with a decade of experience building full-stack products across fintech, AI, and trading systems. I'm deeply interested in the intersection of agentic AI and real-world systems — from content creation pipelines to intelligent web applications. In my free time, I like to read, play chess or grind at the gym - hobbies that keep me sharp, focused, and always learning.
 
 ### What I'm Building
 
